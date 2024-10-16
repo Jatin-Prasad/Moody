@@ -1,4 +1,4 @@
-const apiKey = "AIzaSyAx2APCQqJRJRFw1pmrIRLDlu8I1v8zaw4"; // Replace with your actual YouTube API key
+const apiKey = "api key"; // Replace with your actual YouTube API key
 
 // Function to analyze mood based on user input (basic mock sentiment analysis)
 async function analyzeMood() {
