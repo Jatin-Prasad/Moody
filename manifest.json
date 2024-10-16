@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "name": "Mood-Based Content Filter",
+    "version": "1.0",
+    "description": "A Chrome extension that filters YouTube content based on your mood.",
+    "permissions": ["storage", "activeTab", "https://www.googleapis.com/"],
+    "action": {
+      "default_popup": "index.html",
+      "default_icon": "okko.png"
+    }
+  }
+  
